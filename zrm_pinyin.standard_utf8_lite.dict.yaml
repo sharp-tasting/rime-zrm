@@ -6955,7 +6955,7 @@ min_phrase_weight: 100
 乢	ge;gu
 乢	he;ug
 乣	jq;yg
-书	uu;vd
+书	uu;ad
 乨	ui;gt
 乩	ji;gv
 乪	nh;yt
@@ -7959,8 +7959,8 @@ min_phrase_weight: 100
 关	xc;bt
 兴	xy;db
 兵	by;qb
-其	ji;hb	0.05%
-其	qi;hb	99.95%
+其	ji;ba	0.05%
+其	qi;ba	99.95%
 具	ju;ba
 典	dm;bh
 兹	zi;by	93.26%
@@ -7975,8 +7975,8 @@ min_phrase_weight: 100
 冂	js;kd
 冃	mk;ke
 冄	rj;sh
-内	na;ud	0%
-内	nz;ud	100%
+内	na;kr	0%
+内	nz;kr	100%
 円	yr;ku
 冇	mk;uk
 冇	mb;uk
@@ -11474,7 +11474,7 @@ min_phrase_weight: 100
 少	uk;xp
 尒	er;rx
 尓	er;px
-尔	er;xd
+尔	er;dx
 尕	ga;nx
 尕	nl;nx
 尖	jm;xd
@@ -15109,39 +15109,33 @@ min_phrase_weight: 100
 曰	yt;uh
 曰	yt;yt
 曱	ya;oa
-曱	ya;ss
 曱	yt;oa
-曱	yt;ru
-曲	qu;ru
-曳	ye;ap
-曳	ye;sp
-曳	yi;ap
-曳	yi;sp
-更	gg;hg	99.90%
-更	jy;hg	0.10%
+曲	qu;oa
+曳	ye;ow
+曳	yi;ow
+更	gg;ad	99.90%
+更	jy;ad	0.10%
 曵	ye;yd
-曵	ye;sd
 曵	yi;sd
-曶	hu;rw
-曶	wf;rw
+曶	hu;wo
+曶	wf;wo
 曶	wu;wo
 曷	he;oa
 書	uu;yo
-曹	ck;cr
-曺	ck;hr
+曹	ck;co
+曺	ck;ao
 曼	mj;oy	100%
 曼	wj;oy	0%
-曽	cg;br
-曾	cg;rb	59.66%
-曾	zg;rb	40.34%
-替	ti;rf
+曽	cg;bo
+曾	cg;bo	59.66%
+曾	zg;bo	40.34%
+替	ti;of
 最	zv;oq
-朁	cj;jr
-朁	cj;jo
-朂	xu;rl
-會	gv;rr	0%
-會	hv;rr	99.98%
-會	ky;rr	0.02%
+朁	cj;oj
+朂	xu;ol
+會	gv;ro	0%
+會	hv;ro	99.98%
+會	ky;ro	0.02%
 朄	yn;uj
 朅	jx;hz
 朅	qx;hz
@@ -26065,7 +26059,7 @@ min_phrase_weight: 100
 襼	yi;yy
 襽	lj;yl
 襾	ya;aa
-西	xi;hh
+西	xi;aa
 覀	xi;xi
 覀	xi;hh
 要	yk;xn
